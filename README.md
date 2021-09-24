@@ -1,2 +1,2 @@
-# buttons-generator
+# Buttons Generator
 GitHub Pages
